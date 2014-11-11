@@ -1,2 +1,3 @@
 add_lunch_combo validus_hammerhead-userdebug
 add_lunch_combo validus_ghost-userdebug
+add_lunch_combo validus_mako-userdebug
