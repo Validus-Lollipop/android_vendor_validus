@@ -87,7 +87,7 @@ ifneq ($(WITH_GMS),true)
 PRODUCT_COPY_FILES += \
     vendor/validus/prebuilt/common/bin/backuptool.sh:system/bin/backuptool.sh \
     vendor/validus/prebuilt/common/bin/backuptool.functions:system/bin/backuptool.functions \
-    vendor/validus/prebuilt/common/bin/50-validus.sh:system/addon.d/50-validus.sh \
+    vendor/validus/prebuilt/common/bin/50-cm.sh:system/addon.d/50-cm.sh \
     vendor/validus/prebuilt/common/bin/blacklist:system/addon.d/blacklist
 endif
 
