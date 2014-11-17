@@ -106,7 +106,7 @@ PRODUCT_COPY_FILES += \
 
 # validus-specific init file
 PRODUCT_COPY_FILES += \
-    vendor/validus/prebuilt/common/etc/init.local.rc:root/init.validus.rc
+    vendor/validus/prebuilt/common/etc/init.local.rc:root/init.cm.rc
 
 # Bring in camera effects
 PRODUCT_COPY_FILES +=  \
