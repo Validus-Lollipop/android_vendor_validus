@@ -3,6 +3,5 @@ add_lunch_combo validus_d851-userdebug
 add_lunch_combo validus_falcon-userdebug
 add_lunch_combo validus_hammerhead-userdebug
 add_lunch_combo validus_ghost-userdebug
-add_lunch_combo validus_moto_msm8960dt-userdebug
 add_lunch_combo validus_m8-userdebug
 add_lunch_combo validus_mako-userdebug
