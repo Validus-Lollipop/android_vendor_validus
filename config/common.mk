@@ -142,8 +142,7 @@ PRODUCT_PACKAGES += \
 
 # Custom validus packages
 PRODUCT_PACKAGES += \
-    Launcher3 \
-	SlimLauncher \
+    SlimLauncher \
     Trebuchet \
     DSPManager \
     libcyanogen-dsp \
