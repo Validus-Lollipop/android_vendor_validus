@@ -151,6 +151,10 @@ PRODUCT_PACKAGES += \
     CMFileManager \
     LockClock \
     CMHome
+	
+# Adaway	
+PRODUCT_COPY_FILES += \
+    vendor/validus/prebuilt/common/app/Adaway/org.adaway.apk:system/app/Adaway/org.adaway.apk	
 
 # validus Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
