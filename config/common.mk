@@ -301,9 +301,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
   ro.validus.version=$(VALIDUS_VERSION) \
   ro.validus.releasetype=$(VALIDUS_BUILDTYPE) \
   ro.modversion=$(VALIDUS_VERSION) \
-  ro.cmlegal.url=http://www.cyanogenmod.org/docs/privacy
-
--include vendor/cm-priv/keys/keys.mk
 
 VALIDUS_DISPLAY_VERSION := $(VALIDUS_VERSION)
 
