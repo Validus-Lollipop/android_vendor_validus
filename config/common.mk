@@ -148,8 +148,9 @@ PRODUCT_PACKAGES += \
     libcyanogen-dsp \
     audio_effects.conf \
     Apollo \
-    DashClock \
-    DeskClock
+    CMFileManager \
+    LockClock \
+    CMHome
 	
 # Adaway	
 PRODUCT_COPY_FILES += \
