@@ -107,6 +107,10 @@ PRODUCT_COPY_FILES += \
 # validus-specific init file
 PRODUCT_COPY_FILES += \
     vendor/validus/prebuilt/common/etc/init.local.rc:root/init.cm.rc
+	
+# Viper4Android
+PRODUCT_COPY_FILES += \
+    vendor/validus/prebuilt/common/etc/viper4android/viper4android.apk:system/app/Viper4Android/viper4android.apk	
 
 # Bring in camera effects
 PRODUCT_COPY_FILES +=  \
