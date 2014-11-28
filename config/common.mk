@@ -147,6 +147,7 @@ PRODUCT_PACKAGES += \
 # Custom validus packages
 PRODUCT_PACKAGES += \
     SlimLauncher \
+    MonthCalendarWidget \
     Trebuchet \
     DSPManager \
     libcyanogen-dsp \
