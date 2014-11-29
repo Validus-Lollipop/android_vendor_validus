@@ -155,7 +155,8 @@ PRODUCT_PACKAGES += \
     Apollo \
     CMFileManager \
     LockClock \
-    CMHome
+    CMHome \
+    PerformanceControl
 	
 # Adaway	
 PRODUCT_COPY_FILES += \
